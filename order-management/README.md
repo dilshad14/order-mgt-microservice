@@ -16,6 +16,7 @@ API :
 4. Basic validations for fields
 5. `src/test/resources/` has sample json file for `/addtoorder` API
 6. Jdk11
+7. Spring cloud Feign client
 
 
 ### execution.
